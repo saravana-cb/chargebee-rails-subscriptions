@@ -1,5 +1,3 @@
-**Note: This repository has been archived. To view the updated repository, click [here](https://github.com/spritlesoftware/chargebee-rails-subscriptions).**
-
 
 [Introduction](#introduction)
 
@@ -17,12 +15,14 @@
 
 
 
+**Note: This repository has been archived. To view the updated repository, click [here](https://github.com/spritlesoftware/chargebee-rails-subscriptions).**
 
 
 
 
 
 # Introduction
+
 
 This ruby gem provides you with a set of boilerplate classes to accelerate the implementation of a subscription billing module onto your rails application. 
 
